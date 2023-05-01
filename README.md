@@ -1,2 +1,4 @@
 # ianreesh.github.io
-test
+theme: jekyll-theme-minimal
+title: Ian's test page
+description: watch for changes
